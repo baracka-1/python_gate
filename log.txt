@@ -1,0 +1,294 @@
+2023/04/20 22:11:51: Eseménynapló törlése: Sikeres
+2023/04/20 22:17:16: Kapu helyzete (Manuális): Zárva
+2023/04/20 22:17:56: Kapu helyzete (Manuális): Zárva
+2023/04/20 22:18:42: Kapu helyzete (Manuális): Nyitva
+2023/04/20 22:19:06: Kapu helyzete (Manuális): Zárva
+2023/04/20 22:19:18: Kapu helyzete (Manuális): Nyitva
+2023/04/20 22:20:10: Kapu helyzete (Manuális): Zárva
+2023/04/20 22:20:23: Kapu helyzete (Manuális): Nyitva
+2023/04/24 21:30:46: Kapu helyzete (Manuális): Nyitva
+2023/04/24 21:30:59: Kapu helyzete (Manuális): Zárva
+2023/04/24 21:31:23: Kapu helyzete (Manuális): Nyitva
+2023/04/24 21:54:34: Kapu helyzete (Manuális): Zárva
+2023/04/24 21:54:45: Kapu helyzete (Manuális): Nyitva
+2023/04/24 21:55:57: Kapu helyzete (Manuális): Nyitva
+2023/04/24 22:00:55: Illetéktelen járművek törlése (Helytelen jelszó miatt): Sikertelen
+2023/05/01 19:01:56: Kapu helyzete (Manuális): Zárva
+2023/05/01 19:02:20: Kapu helyzete (Manuális): Nyitva
+2023/05/13 01:32:20: Kapu helyzete (Manuális): Zárva
+2023/05/13 01:32:51: Kapu helyzete (Manuális): Nyitva
+2023/05/15 19:43:15: Kapu helyzete (Manuális): Zárva
+2023/05/15 19:44:46: Kapu helyzete (Manuális): Nyitva
+2023/05/15 19:48:16: Kapu helyzete (Manuális): Zárva
+2023/05/15 19:48:59: Kapu helyzete (Manuális): Nyitva
+2023/05/21 16:34:52: Kapu helyzete (Manuális): Zárva
+2023/05/21 16:37:10: Kapu helyzete (Manuális): Nyitva
+2023/05/21 16:37:35: Eseménynapló törlése (Helytelen jelszó miatt): Sikertelen
+2023/05/22 20:09:55: Kapu helyzete (Manuális): Zárva
+2023/05/22 20:10:35: Kapu helyzete (Manuális): Nyitva
+2023/05/22 20:26:22: Kapu helyzete (Manuális): Nyitva
+2023/05/22 20:28:01: Kapu helyzete (Manuális): Nyitva
+2023/05/22 20:28:18: Rendszámtábla felírása: Sikeres % Rendszám:CZH687
+2023/05/22 20:28:30: Rendszámtábla felírása: Sikeres % Rendszám:CZH581
+2023/05/22 20:28:32: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:28:37: Kapu helyzete: Nyitva
+2023/05/22 20:28:57: Kapu helyzete: Zárva
+2023/05/22 20:28:58: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:29:03: Kapu helyzete: Nyitva
+2023/05/22 20:29:23: Kapu helyzete: Zárva
+2023/05/22 20:31:16: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:31:21: Kapu helyzete: Nyitva
+2023/05/22 20:31:41: Kapu helyzete: Zárva
+2023/05/22 20:31:42: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:31:47: Kapu helyzete: Nyitva
+2023/05/22 20:32:07: Kapu helyzete: Zárva
+2023/05/22 20:34:05: Rendszámtábla felírása: Sikeres % Rendszám:MZH681
+2023/05/22 20:34:06: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:34:11: Kapu helyzete: Nyitva
+2023/05/22 20:34:31: Kapu helyzete: Zárva
+2023/05/22 20:36:18: Rendszámtábla felírása: Sikeres % Rendszám:CZH568
+2023/05/22 20:36:36: Kapu helyzete (Manuális): Nyitva
+2023/05/22 20:47:48: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:47:53: Kapu helyzete: Nyitva
+2023/05/22 20:48:07: Kapu helyzete (Manuális): Zárva
+2023/05/22 20:48:13: Kapu helyzete: Zárva
+2023/05/22 20:53:10: Rendszámtábla felírása: Sikeres % Rendszám:CZF681
+2023/05/22 20:53:12: Rendszámtábla felírása: Sikeres % Rendszám:ZHS681
+2023/05/22 20:56:36: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:56:41: Kapu helyzete: Nyitva
+2023/05/22 20:57:01: Kapu helyzete: Zárva
+2023/05/22 20:57:26: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 20:57:31: Kapu helyzete: Nyitva
+2023/05/22 20:57:51: Kapu helyzete: Zárva
+2023/05/22 22:26:48: Rendszámtábla felírása: Sikeres % Rendszám:CZH268
+2023/05/22 22:34:06: Rendszámtábla felírása: Sikeres % Rendszám:NSH130
+2023/05/22 22:37:45: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 22:37:50: Kapu helyzete: Nyitva
+2023/05/22 22:38:10: Kapu helyzete: Zárva
+2023/05/22 22:52:42: Rendszámtábla felírása: Sikeres % Rendszám:AZH684
+2023/05/22 22:52:54: Rendszámtábla felírása: Sikeres % Rendszám:CZH826
+2023/05/22 22:53:02: Rendszámtábla felírása: Sikeres % Rendszám:CZH368
+2023/05/22 22:59:50: Rendszámtábla felírása: Sikeres % Rendszám:SIO215
+2023/05/22 23:00:49: Rendszámtábla felírása: Sikeres % Rendszám:CZS601
+2023/05/22 23:00:55: Rendszámtábla felírása: Sikeres % Rendszám:ZHR681
+2023/05/22 23:01:00: Rendszámtábla felírása: Sikeres % Rendszám:EZH681
+2023/05/22 23:02:31: Rendszámtábla felírása: Sikeres % Rendszám:ZHR687
+2023/05/22 23:03:34: Rendszámtábla felírása: Sikeres % Rendszám:CWE108
+2023/05/22 23:03:55: Rendszámtábla felírása: Sikeres % Rendszám:HBE308
+2023/05/22 23:04:03: Rendszámtábla felírása: Sikeres % Rendszám:CZH366
+2023/05/22 23:06:22: Rendszámtábla felírása: Sikeres % Rendszám:ZHE368
+2023/05/22 23:08:23: Rendszámtábla felírása: Sikeres % Rendszám:ERG681
+2023/05/22 23:08:57: Rendszámtábla felírása: Sikeres % Rendszám:ZAS308
+2023/05/22 23:11:04: Rendszámtábla felírása: Sikeres % Rendszám:CZH868
+2023/05/22 23:23:55: Rendszámtábla felírása: Sikeres % Rendszám:CZH684
+2023/05/22 23:23:57: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 23:24:02: Kapu helyzete: Nyitva
+2023/05/22 23:24:22: Kapu helyzete: Zárva
+2023/05/22 23:27:09: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 23:27:14: Kapu helyzete: Nyitva
+2023/05/22 23:27:34: Kapu helyzete: Zárva
+2023/05/22 23:29:42: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 23:29:47: Kapu helyzete: Nyitva
+2023/05/22 23:30:07: Kapu helyzete: Zárva
+2023/05/22 23:31:03: Rendszámtábla felírása: Sikeres % Rendszám:CZH768
+2023/05/22 23:31:21: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 23:31:26: Kapu helyzete: Nyitva
+2023/05/22 23:31:46: Kapu helyzete: Zárva
+2023/05/22 23:31:55: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 23:32:00: Kapu helyzete: Nyitva
+2023/05/22 23:32:20: Kapu helyzete: Zárva
+2023/05/22 23:35:43: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/22 23:35:48: Kapu helyzete: Nyitva
+2023/05/22 23:36:08: Kapu helyzete: Zárva
+2023/05/23 11:42:57: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 11:43:02: Kapu helyzete: Nyitva
+2023/05/23 11:43:22: Kapu helyzete: Zárva
+2023/05/23 11:43:37: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 11:43:42: Kapu helyzete: Nyitva
+2023/05/23 11:44:02: Kapu helyzete: Zárva
+2023/05/23 11:54:15: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 11:54:20: Kapu helyzete: Nyitva
+2023/05/23 11:54:40: Kapu helyzete: Zárva
+2023/05/23 11:55:43: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 11:55:48: Kapu helyzete: Nyitva
+2023/05/23 11:56:08: Kapu helyzete: Zárva
+2023/05/23 12:00:18: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 12:00:23: Kapu helyzete: Nyitva
+2023/05/23 12:00:43: Kapu helyzete: Zárva
+2023/05/23 12:01:07: Kapu helyzete (Manuális): Nyitva
+2023/05/23 12:11:28: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 12:11:33: Kapu helyzete: Nyitva
+2023/05/23 12:11:53: Kapu helyzete: Zárva
+2023/05/23 12:19:04: Kapu helyzete (Manuális): Nyitva
+2023/05/23 12:19:12: Kapu helyzete (Manuális): Zárva
+2023/05/23 12:52:15: Kapu helyzete (Manuális): Nyitva
+2023/05/23 12:52:18: Kapu helyzete (Manuális): Zárva
+2023/05/23 13:19:24: Kapu helyzete (Manuális): Nyitva
+2023/05/23 13:19:35: Kapu helyzete (Manuális): Zárva
+2023/05/23 14:35:06: Rendszámtábla felírása: Sikeres % Rendszám:NAF144
+2023/05/23 14:35:56: Rendszámtábla felírása: Sikeres % Rendszám:ZLH681
+2023/05/23 14:37:27: Rendszámtábla felírása: Sikeres % Rendszám:CZH685
+2023/05/23 14:37:29: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 14:37:34: Kapu helyzete: Nyitva
+2023/05/23 14:37:54: Kapu helyzete: Zárva
+2023/05/23 15:02:25: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:02:30: Kapu helyzete: Nyitva
+2023/05/23 15:05:19: Rendszámtábla felírása: Sikeres % Rendszám:ZHI681
+2023/05/23 15:05:36: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:05:37: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:05:41: Kapu helyzete: Nyitva
+2023/05/23 15:05:42: Kapu helyzete: Nyitva
+2023/05/23 15:05:55: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:17:58: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:17:59: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:18:02: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:18:04: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:25:47: Kapu helyzete (Manuális): Nyitva
+2023/05/23 15:26:04: Kapu helyzete (Manuális): Nyitva
+2023/05/23 15:26:07: Kapu helyzete (Manuális): Nyitva
+2023/05/23 15:27:45: Kapu helyzete (Manuális): Nyitva
+2023/05/23 15:29:28: Kapu helyzete (Manuális): Nyitva
+2023/05/23 15:29:35: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:29:41: Kapu helyzete (Manuális): Nyitva
+2023/05/23 15:31:23: Kapu helyzete (Manuális): Nyitva
+2023/05/23 15:31:35: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:38:33: Rendszámtábla felírása: Sikeres % Rendszám:ZHE681
+2023/05/23 15:39:34: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:39:39: Kapu helyzete: Nyitva
+2023/05/23 15:39:50: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:40:29: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:40:34: Kapu helyzete: Nyitva
+2023/05/23 15:41:46: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:41:51: Kapu helyzete: Nyitva
+2023/05/23 15:43:26: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:43:31: Kapu helyzete: Nyitva
+2023/05/23 15:43:35: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:46:13: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:46:13: Kapu helyzete: Nyitva
+2023/05/23 15:46:33: Kapu helyzete: Zárva
+2023/05/23 15:46:42: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:47:12: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:47:12: Kapu helyzete: Nyitva
+2023/05/23 15:47:22: Kapu helyzete: Zárva
+2023/05/23 15:49:14: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:49:14: Kapu helyzete: Nyitva
+2023/05/23 15:49:24: Kapu helyzete: Zárva
+2023/05/23 15:51:37: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:51:37: Kapu helyzete: Nyitva
+2023/05/23 15:51:47: Kapu helyzete: Zárva
+2023/05/23 15:52:23: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:53:55: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:54:00: Kapu helyzete: Nyitva
+2023/05/23 15:54:04: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:54:10: Kapu helyzete: Zárva
+2023/05/23 15:57:36: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:57:37: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:57:41: Kapu helyzete: Nyitva
+2023/05/23 15:57:42: Kapu helyzete: Nyitva
+2023/05/23 15:57:51: Kapu helyzete: Zárva
+2023/05/23 15:57:52: Kapu helyzete: Zárva
+2023/05/23 15:58:05: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:58:10: Kapu helyzete: Nyitva
+2023/05/23 15:58:13: Kapu helyzete (Manuális): Zárva
+2023/05/23 15:58:20: Kapu helyzete: Zárva
+2023/05/23 15:59:32: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 15:59:37: Kapu helyzete: Nyitva
+2023/05/23 15:59:47: Kapu helyzete: Zárva
+2023/05/23 16:00:00: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:00:05: Kapu helyzete: Nyitva
+2023/05/23 16:00:15: Kapu helyzete: Zárva
+2023/05/23 16:00:24: Kapu helyzete (Manuális): Nyitva
+2023/05/23 16:00:35: Kapu helyzete (Manuális): Zárva
+2023/05/23 16:29:48: Rendszámtábla felírása: Sikeres % Rendszám:MOE901
+2023/05/23 16:29:57: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:29:58: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:30:02: Kapu helyzete: Nyitva
+2023/05/23 16:30:03: Kapu helyzete: Nyitva
+2023/05/23 16:30:55: Kapu helyzete: Nyitva % Rendszám:CZH687
+2023/05/23 16:31:00: Kapu helyzete: Nyitva
+2023/05/23 16:38:35: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:38:40: Kapu helyzete: Nyitva
+2023/05/23 16:38:50: Kapu helyzete: Zárva
+2023/05/23 16:39:09: Rendszámtábla felírása: Sikeres % Rendszám:CZH814
+2023/05/23 16:39:13: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:39:18: Kapu helyzete: Nyitva
+2023/05/23 16:39:28: Kapu helyzete: Zárva
+2023/05/23 16:40:13: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:40:18: Kapu helyzete: Nyitva
+2023/05/23 16:40:28: Kapu helyzete: Zárva
+2023/05/23 16:40:42: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:40:47: Kapu helyzete: Nyitva
+2023/05/23 16:40:57: Kapu helyzete: Zárva
+2023/05/23 16:42:00: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:42:05: Kapu helyzete: Nyitva
+2023/05/23 16:42:15: Kapu helyzete: Zárva
+2023/05/23 16:42:26: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/23 16:42:31: Kapu helyzete: Nyitva
+2023/05/23 16:42:41: Kapu helyzete: Zárva
+2023/05/23 22:30:43: Kapu helyzete (Manuális): Nyitva
+2023/05/23 22:30:49: Kapu helyzete (Manuális): Zárva
+2023/05/23 22:36:18: Kapu helyzete (Manuális): Nyitva
+2023/05/23 22:36:41: Kapu helyzete (Manuális): Nyitva
+2023/05/23 22:36:50: Kapu helyzete (Manuális): Zárva
+2023/05/24 16:56:04: Automatikus kapubezárás kikapcsolása: Sikeres
+2023/05/24 16:56:12: Automatikus kapubezárás bekapcsolása: Sikeres
+2023/05/24 17:11:00: Automatikus kapubezárás kikapcsolása: Sikeres
+2023/05/24 17:11:00: Eseménynapló törlése: Sikeres
+2023/05/24 17:13:50: Automatikus kapubezárás bekapcsolása: Sikeres
+2023/05/24 17:14:40: Automatikus kapubezárás kikapcsolása: Sikeres
+2023/05/24 17:33:21: Rendszámtábla törlése az engedélyezett rendszámok listájából: Sikertelen
+2023/05/24 17:37:10: Kapu pozícióváltás idejének beállítása: Sikeres
+2023/05/24 17:41:10: Kapu automatikus bezárás idejének beállítása: Sikeres
+2023/05/24 17:41:20: Kapu automatikus bezárás idejének beállítása: Sikeres
+2023/05/24 17:41:27: Kapu pozícióváltás idejének beállítása: Sikeres
+2023/05/24 17:41:37: Automatikus kapubezárás bekapcsolása: Sikeres
+2023/05/24 17:41:47: Kapu helyzete (Manuális): Nyitva
+2023/05/24 17:41:58: Kapu helyzete (Manuális): Zárva
+2023/05/24 17:52:30: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/24 17:52:31: Kapu helyzete: Nyitva % Rendszám:CZH081
+2023/05/24 17:52:40: Kapu helyzete: Nyitva
+2023/05/24 17:52:41: Kapu helyzete: Nyitva
+2023/05/24 17:53:12: Kapu automatikus bezárás idejének beállítása: Sikeres
+2023/05/24 17:53:17: Automatikus kapubezárás kikapcsolása: Sikeres
+2023/05/24 17:53:43: Kapu helyzete: Nyitva % Rendszám:CZH684
+2023/05/24 17:53:53: Kapu helyzete: Nyitva
+2023/05/24 17:55:20: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/24 17:55:30: Kapu helyzete: Nyitva
+2023/05/24 17:55:36: Kapu helyzete (Manuális): Zárva
+2023/05/24 17:55:41: Automatikus kapubezárás bekapcsolása: Sikeres
+2023/05/24 17:55:58: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/24 17:55:58: Kapu helyzete: Nyitva % Rendszám:CZH681
+2023/05/24 17:56:08: Kapu helyzete: Nyitva
+2023/05/24 17:56:08: Kapu helyzete: Nyitva
+2023/05/24 17:56:38: Kapu helyzete: Zárva
+2023/05/24 17:56:39: Kapu helyzete: Zárva
+2023/05/24 19:00:43: Kapu helyzete (Manuális): Nyitva
+2023/05/24 19:01:29: Kapu helyzete (Manuális): Zárva
+2023/05/24 19:01:53: Kapu helyzete (Manuális): Nyitva
+2023/05/24 19:19:13: Kapu helyzete (Manuális): Zárva
+2023/05/24 19:19:30: Kapu helyzete (Manuális): Nyitva
+2023/05/24 19:27:30: Kapu helyzete (Manuális): Nyitva
+2023/11/14 17:34:29: Kapu helyzete (Manuális): Nyitva
+2023/11/14 17:36:09: Kapu helyzete (Manuális): Nyitva
+2023/11/14 17:36:57: Kapu helyzete (Manuális): Nyitva
+2023/11/14 17:37:12: Kapu helyzete (Manuális): Zárva
+2023/11/14 17:38:33: Kapu helyzete (Manuális): Nyitva
+2024/01/23 15:03:03: Kapu helyzete (Manuális): Nyitva
+2024/01/23 15:03:20: Kapu helyzete (Manuális): Zárva
+2024/01/23 15:03:42: Kapu helyzete (Manuális): Nyitva
+2024/01/23 15:04:06: Eseménynapló törlése: Sikeres
+2024/01/23 15:04:06: Illetéktelen járművek törlése: Sikeres
+2024/01/23 15:04:55: Kapu helyzete (Manuális): Nyitva
+2024/01/23 15:05:13: Kapu helyzete (Manuális): Zárva
+2024/01/23 15:05:45: Kapu helyzete (Manuális): Nyitva
+2024/03/04 12:09:41: Rendszámtábla felírása: Sikeres % Rendszám:BPE138
+2024/03/04 12:10:12: Rendszámtábla felírása: Sikeres % Rendszám:PIG333
+2024/04/05 10:58:39: Kapu helyzete (Manuális): Nyitva
+2024/04/05 10:59:26: Kapu helyzete (Manuális): Zárva
+2024/04/05 10:59:56: Kapu helyzete (Manuális): Nyitva
+2024/04/10 21:06:49: Kapu helyzete (Manuális): Nyitva
+2024/04/10 21:07:00: Kapu helyzete (Manuális): Nyitva
+2024/04/10 21:15:04: Kapu helyzete (Manuális): Nyitva
+2024/04/10 21:16:05: Kapu helyzete (Manuális): Nyitva
+2024/04/10 21:17:53: Kapu helyzete (Manuális): Nyitva
+2024/04/10 21:25:57: Kapu automatikus bezárás idejének beállítása: Sikeres
