@@ -292,3 +292,5 @@
 2024/04/10 21:16:05: Kapu helyzete (Manuális): Nyitva
 2024/04/10 21:17:53: Kapu helyzete (Manuális): Nyitva
 2024/04/10 21:25:57: Kapu automatikus bezárás idejének beállítása: Sikeres
+2024/08/26 18:40:37: Kapu helyzete (Manuális): Zárva
+2024/08/26 18:41:01: Kapu helyzete (Manuális): Nyitva
