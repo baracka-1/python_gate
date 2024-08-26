@@ -25,3 +25,6 @@ Elektromos kapunyitóhoz alapnak (saját felhasználásra)
         -Számolja a kapu nyitásokat napra/hétre/hónapra táblázva
         
         -TRUE output (kapu nyitásához pl.) manuális küldése
+
+
+Issues-nél található kép a GUI felületről.
